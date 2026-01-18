@@ -70,6 +70,4 @@ By completing this project, interns will:
 - Apply **scaling/normalization** for numerical features  
 - Train baseline models (e.g., Linear Regression) on the cleaned dataset  
 
----
 
-Would you like me to also **add sample screenshots/plots** (like the missing values bar chart) into the README so it looks more visually engaging on GitHub?
